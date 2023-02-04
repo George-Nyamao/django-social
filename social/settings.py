@@ -29,6 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
+# Add dwitter
 
 INSTALLED_APPS = [
     "django.contrib.admin",
